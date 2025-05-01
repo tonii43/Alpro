@@ -10,7 +10,7 @@ int main()
     scanf("%d", &N);
     printf("Masukkan Neff\n");
     scanf("%d", &NEff);
-
+    // nenen
     for (int i = 0; i < N; i++)
     {
         printf("Masukan T[%d]\n", i);
